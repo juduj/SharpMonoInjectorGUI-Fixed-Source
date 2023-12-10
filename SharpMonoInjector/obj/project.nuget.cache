@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rIWwZIwYy2pudnPBhU9jpThYS+Muhg7sbM2b07ThSbDhFpgf7uksINVLrWf7d4WlK7HKYXf1sXGt1RqvVfr2Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robed\\Downloads\\SharpMonoInjector-master\\SharpMonoInjector-master\\src\\SharpMonoInjector\\SharpMonoInjector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Robed\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

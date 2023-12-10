@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppForDebugging/1.0.0": {
+        "dependencies": {
+          "SharpMonoInjector.Console": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppForDebugging.dll": {}
+        }
+      },
+      "SharpMonoInjector/1.0.0": {
+        "runtime": {
+          "SharpMonoInjector.dll": {}
+        }
+      },
+      "SharpMonoInjector.Console/1.0.0": {
+        "dependencies": {
+          "SharpMonoInjector": "1.0.0"
+        },
+        "runtime": {
+          "smi.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppForDebugging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpMonoInjector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpMonoInjector.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

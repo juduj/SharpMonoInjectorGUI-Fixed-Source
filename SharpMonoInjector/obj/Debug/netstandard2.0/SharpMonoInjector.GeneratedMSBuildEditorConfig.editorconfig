@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SharpMonoInjector
+build_property.ProjectDir = C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,10 @@
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\build\debug\netstandard2.0\SharpMonoInjector.deps.json
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\build\debug\netstandard2.0\SharpMonoInjector.dll
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\build\debug\netstandard2.0\SharpMonoInjector.pdb
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.csproj.AssemblyReference.cache
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.AssemblyInfoInputs.cache
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.AssemblyInfo.cs
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.csproj.CoreCompileInputs.cache
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.dll
+C:\Users\Robed\Downloads\SharpMonoInjector-master\SharpMonoInjector-master\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.pdb

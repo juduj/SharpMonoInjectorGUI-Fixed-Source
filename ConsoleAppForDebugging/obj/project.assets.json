@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SharpMonoInjector/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SharpMonoInjector.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharpMonoInjector.dll": {}
+        }
+      },
+      "SharpMonoInjector.Gui/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "SharpMonoInjector": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SharpMonoInjector.Gui.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharpMonoInjector.Gui.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpMonoInjector/1.0.0": {
+      "type": "project",
+      "path": "../SharpMonoInjector/SharpMonoInjector.csproj",
+      "msbuildProject": "../SharpMonoInjector/SharpMonoInjector.csproj"
+    },
+    "SharpMonoInjector.Gui/1.0.0": {
+      "type": "project",
+      "path": "../SharpMonoInjector.Gui/SharpMonoInjector.Gui.csproj",
+      "msbuildProject": "../SharpMonoInjector.Gui/SharpMonoInjector.Gui.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SharpMonoInjector.Gui >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Robed\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Robed\\Downloads\\SharpMonoInjector-master\\SharpMonoInjector-master\\src\\ConsoleAppForDebugging\\ConsoleAppForDebugging.csproj",
+      "projectName": "ConsoleAppForDebugging",
+      "projectPath": "C:\\Users\\Robed\\Downloads\\SharpMonoInjector-master\\SharpMonoInjector-master\\src\\ConsoleAppForDebugging\\ConsoleAppForDebugging.csproj",
+      "packagesPath": "C:\\Users\\Robed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Robed\\Downloads\\SharpMonoInjector-master\\SharpMonoInjector-master\\src\\ConsoleAppForDebugging\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Robed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Robed\\Downloads\\SharpMonoInjector-master\\SharpMonoInjector-master\\src\\SharpMonoInjector.Gui\\SharpMonoInjector.Gui.csproj": {
+              "projectPath": "C:\\Users\\Robed\\Downloads\\SharpMonoInjector-master\\SharpMonoInjector-master\\src\\SharpMonoInjector.Gui\\SharpMonoInjector.Gui.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
